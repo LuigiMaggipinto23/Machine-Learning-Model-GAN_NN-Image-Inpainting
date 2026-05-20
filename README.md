@@ -135,7 +135,7 @@ The dataset is not included in the repo due to its size (~4300 landscape images)
 
 [arnaud58/landscape-pictures](https://www.kaggle.com/datasets/arnaud58/landscape-pictures)
 
-Place the images in the `dataset/` folder following the split below:
+Create the folder `dataset/` and put the images in this folder following the split below:
 
 ```
 dataset/
