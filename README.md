@@ -119,8 +119,8 @@ The GAN consists of two networks trained adversarially:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/LuigiMaggipinto23/Machine-Learning-Model-GAN_NN-Image-Inpainting
+cd Machine-Learning-Model-GAN_NN-Image-Inpainting
 ```
 
 ### 2. Install dependencies
