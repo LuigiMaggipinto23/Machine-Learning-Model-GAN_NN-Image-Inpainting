@@ -97,13 +97,12 @@ The GAN consists of two networks trained adversarially:
 │   │   ├── ValGeneratorLoss.png
 │   │   └── ValRealLoss.png
 │   ├── Test Empty Patch.png     # Test input (masked)
-│   └── Test Filled Patch-4.png  # Test output (reconstructed)
+│   └── Test Filled Patch.png  # Test output (reconstructed)
 ├── models/
 │   ├── patch_generator.pkl      # Trained generator weights
 │   └── stroke_generator.pkl
 ├── Report/
 │   └── Report_ML.pdf            # Full project report
-├── dataset/                     # ⚠️ Empty — download separately (see below)
 ├── constants.py                 # Hyperparameters
 ├── dataset.py                   # Dataset loading & preprocessing
 ├── discriminator.py             # Discriminator architecture
